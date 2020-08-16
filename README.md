@@ -6,9 +6,13 @@
 **Features**
 
 1- The program supports Undo and Redo features using stack to undo and changes.
+
 2- You can Modify any drawn Shape from the drop down list easily.
+
 3- You can add any new Shape from an external Plugin with only a jar file.
+
 4- A very friendly User interface.
+
 
 **UML Class Diagram**
 
